@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @heronvondralbra
-.
-- 🌱 I’m currently learning ...
+- 👋 Hi, there
+- 🌱 
 
 
 <!---
